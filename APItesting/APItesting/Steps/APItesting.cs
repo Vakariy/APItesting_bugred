@@ -9,7 +9,7 @@ using TechTalk.SpecFlow;
 namespace APItesting.Steps
 {
     [Binding]
-    public class NegativeRegisterration
+    public class APItesting
     {
         RestClient client;
         Dictionary<string, string> userdata;
